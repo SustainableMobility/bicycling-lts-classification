@@ -30,8 +30,22 @@ Several studies have validated the LTS approach, showing strong correlations bet
 -	The presented method is an extension of a Level of Traffic Stress tool for cycling infrastructure for Victoria, Australia originally developed by **Tom Gardner**, **Sarah Lowe** and **Athol Moore** of **WSP**.
 -	Information on this tool was obtained from an unpublished report submitted by WSP to the Department of Transport.
 
+### Citation
+If you are using this classification system for your work, we strongly recommend citing this repository. 
+You may refer to the guidelines provided [here](https://www.ilovephd.com/how-do-you-cite-a-github-repository/).
 
-#### Key Literature
-- **Mekuria, M.C., Furth, P.G., & Nixon, H. (2012)**. "Low-stress bicycling and network connectivity." Mineta Transportation Institute. This foundational work defines the LTS framework and proposes methods for assessing bicycle network connectivity using LTS classifications.
-- **Furth, P.G., Mekuria, M., & Nixon, H. (2016)**. "Network connectivity for low-stress bicycling: evaluation and planning using the Bicycling Level of Traffic Stress." Transportation Research Record. This paper refines the LTS model and demonstrates its use in various U.S. cities.
-- **Jones, M., Harms, L., & Heinen, E. (2018)**. "Cyclist safety on different cycling infrastructure: A road network stress analysis." Accident Analysis & Prevention. This study applies LTS to evaluate cyclist safety and suggests improvements in bicycle infrastructure.
+#### BibTeX
+```
+@misc{Sustainable_Mobility_and_Safety_Research_Group_Bicycling_infrastructure_classification_2023,
+author = {{Sustainable Mobility and Safety Research Group, Monash University}},
+title = {{Bicycling infrastructure classification using OpenStreetMap}},
+url = {https://github.com/SustainableMobility/bicycling-infrastructure-classification},
+doi = {10.6084/m9.figshare.27059875},
+year = {2023}
+}
+```
+>
+#### APA
+```
+BHOWMICK, DEBJIT; Beck, Ben (2024). A framework for classifying road segments in a network into one of the four Bicycling Level of Traffic Stress (LTS) classes.. figshare. Online resource. https://doi.org/10.6084/m9.figshare.27059875.v2
+```
