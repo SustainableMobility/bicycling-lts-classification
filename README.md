@@ -47,5 +47,5 @@ year = {2023}
 >
 #### APA
 ```
-BHOWMICK, DEBJIT; Beck, Ben (2024). A framework for classifying road segments in a network into one of the four Bicycling Level of Traffic Stress (LTS) classes.. figshare. Online resource. https://doi.org/10.6084/m9.figshare.27059875.v2
+BHOWMICK, D., & Beck, B. (2024). A framework for classifying road segments in a network into one of the four Bicycling Level of Traffic Stress (LTS) classes. (Version 2). figshare. https://doi.org/10.6084/m9.figshare.27059875.v2
 ```
