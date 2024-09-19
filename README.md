@@ -5,6 +5,9 @@ A framework for classifying road segments in a network into one of the four Bicy
 
 The **Bicycling Level of Traffic Stress (LTS)** is a framework that categorizes road segments based on the level of stress they induce in people riding bikes. It serves as a tool for evaluating the suitability of roadways for different types of people riding bikes by classifying them into one of four categories. LTS is widely used to inform bicycle network planning and to create maps showing routes that are safe and comfortable for people riding bikes.
 
+We, the [Sustainable Mobility and Safety Research Group](https://www.monash.edu/medicine/sphpm/units/traumaepi/sustainable-mobility-and-safety-research-group) (SMSR) at Monash University, Australia, have developed a classification process to classify road segments in terms of their bicycling related Level of Traffic Stress across Greater Melbourne, Australia.
+We have derived knowledge from existing studies and calibrated our classification system to suit local conditions.
+
 #### LTS Classes
 
 1. **LTS 1 (Low Stress)**: Suitable for almost all people riding bikes, including children. It involves off-road bike paths, protected (physically separated) bike lanes, and roads with minimal traffic and low speeds (typically below 30 km/h). Bike lanes are either physically separated or roads have very low traffic volumes, ensuring that people riding bikes feel safe.
