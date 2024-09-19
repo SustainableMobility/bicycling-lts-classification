@@ -1,2 +1,37 @@
 # bicycling-lts-classification
-A framework for classifying road segments in a network into one of the four Bicycling Level of Traffic Stress (LTS) classes
+A framework for classifying road segments in a network into one of the four Bicycling Level of Traffic Stress (LTS) classes.
+
+### Bicycling Level of Traffic Stress (LTS)
+
+The **Bicycling Level of Traffic Stress (LTS)** is a framework that categorizes road segments based on the level of stress they induce in people riding bikes. It serves as a tool for evaluating the suitability of roadways for different types of people riding bikes by classifying them into one of four categories. LTS is widely used to inform bicycle network planning and to create maps showing routes that are safe and comfortable for people riding bikes.
+
+#### LTS Classes
+
+1. **LTS 1 (Low Stress)**: Suitable for almost all people riding bikes, including children. It involves off-road bike paths, protected (physically separated) bike lanes, and roads with minimal traffic and low speeds (typically below 30 km/h). Bike lanes are either physically separated or roads have very low traffic volumes, ensuring that people riding bikes feel safe.
+
+2. **LTS 2 (Moderate Stress)**: Appropriate for most adults. Roads classified as LTS 2 have moderate traffic volumes and speeds (typically up to 40 km/h), often featuring dedicated bike lanes or wide shoulders. The interactions between cars and people riding bikes are low-stress but may still discourage less confident cyclists.
+
+3. **LTS 3 (Higher Stress)**: Suitable for experienced and confident cyclists. These road segments include busier streets with higher traffic volumes and speeds (above 40 km/h). Bike infrastructure may be present but often in the form of painted lanes with limited protection. people riding bikes need to be more assertive and prepared for closer interactions with vehicles.
+
+4. **LTS 4 (High Stress)**: Appropriate only for highly experienced cyclists, such as those comfortable with high-speed traffic (often exceeding 50 km/h) and narrow lanes. These roads have little or no bicycle infrastructure and can be intimidating or unsafe for most people.
+
+The LTS model accounts for factors like **traffic volume**, **speed limits**, **lane width**, and the presence or absence of **bicycle infrastructure**. Higher LTS scores often indicate streets that are unsafe or uncomfortable for all but the most experienced cyclists.
+
+#### Applications of LTS
+LTS analysis has been applied in various cities and regions for:
+- **Bicycle network design**: Identifying gaps in safe and low-stress bicycle infrastructure.
+- **Accessibility mapping**: Showing areas where low-stress routes connect residential areas to major destinations.
+- **Policy evaluation**: Measuring how changes in road design influence bicycle safety and accessibility.
+
+Several studies have validated the LTS approach, showing strong correlations between LTS classifications and the preferences or behaviors of cyclists across different environments.
+
+#### Acknowledgment
+- The methodology for Bicycling Level of Traffic Stress classification provided in this document has been developed by **Dr Debjit Bhowmick** with advice from **Associate Prof. Ben Beck** from the **Sustainable Mobility and Safety Research** group at Monash University. 
+-	The presented method is an extension of a Level of Traffic Stress tool for cycling infrastructure for Victoria, Australia originally developed by **Tom Gardner**, **Sarah Lowe** and **Athol Moore** of **WSP**.
+-	Information on this tool was obtained from an unpublished report submitted by WSP to the Department of Transport.
+
+
+#### Key Literature
+- **Mekuria, M.C., Furth, P.G., & Nixon, H. (2012)**. "Low-stress bicycling and network connectivity." Mineta Transportation Institute. This foundational work defines the LTS framework and proposes methods for assessing bicycle network connectivity using LTS classifications.
+- **Furth, P.G., Mekuria, M., & Nixon, H. (2016)**. "Network connectivity for low-stress bicycling: evaluation and planning using the Bicycling Level of Traffic Stress." Transportation Research Record. This paper refines the LTS model and demonstrates its use in various U.S. cities.
+- **Jones, M., Harms, L., & Heinen, E. (2018)**. "Cyclist safety on different cycling infrastructure: A road network stress analysis." Accident Analysis & Prevention. This study applies LTS to evaluate cyclist safety and suggests improvements in bicycle infrastructure.
