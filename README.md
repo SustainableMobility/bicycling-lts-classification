@@ -40,7 +40,7 @@ You may refer to the guidelines provided [here](https://www.ilovephd.com/how-do-
 author = {{Sustainable Mobility and Safety Research Group, Monash University}},
 title = {{Bicycling infrastructure classification using OpenStreetMap}},
 url = {https://github.com/SustainableMobility/bicycling-infrastructure-classification},
-doi = {10.6084/m9.figshare.27059875},
+doi = {https://doi.org/10.6084/m9.figshare.27059875},
 year = {2023}
 }
 ```
