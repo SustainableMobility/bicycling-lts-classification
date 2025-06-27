@@ -1,7 +1,7 @@
 # bicycling-lts-classification
 A framework for classifying road segments in a network into one of the four Bicycling Level of Traffic Stress (LTS) classes.
 
-Access a sample data of Greater Melbourne for mid-2022 [here](https://figshare.com/s/b78dde5097a1057307aa).
+**Access a sample data of Greater Melbourne for mid-2022 [here](https://figshare.com/s/b78dde5097a1057307aa).**
 
 ### Bicycling Level of Traffic Stress (LTS)
 
