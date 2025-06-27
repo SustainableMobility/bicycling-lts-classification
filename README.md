@@ -1,6 +1,8 @@
 # bicycling-lts-classification
 A framework for classifying road segments in a network into one of the four Bicycling Level of Traffic Stress (LTS) classes.
 
+Access a sample data of Greater Melbourne for mid-2022 [here](https://figshare.com/s/b78dde5097a1057307aa).
+
 ### Bicycling Level of Traffic Stress (LTS)
 
 The **Bicycling Level of Traffic Stress (LTS)** is a framework that categorizes road segments based on the level of stress they induce in people riding bikes. It serves as a tool for evaluating the suitability of roadways for different types of people riding bikes by classifying them into one of four categories. LTS is widely used to inform bicycle network planning and to create maps showing routes that are safe and comfortable for people riding bikes.
